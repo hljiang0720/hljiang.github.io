@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Curriculum Vitae
-subtitle: Qin (Jane) Hu
+subtitle: Honglu (Hollie) Jiang
 ---
 
-View my CV in [pdf](../file/CV_QinHu.pdf) (by May 2019)
+View my CV in [pdf](../file/cv_honglujiang.pdf) (by May 2019)
 
 ## Research Interests
 

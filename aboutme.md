@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Qin (Jane) Hu
+subtitle: Honglu (Hollie) Jiang
 ---
 
 - Assistant Professor in [Department of Computer & Information Science](https://cs.iupui.edu/), Purdue School of Science, Indiana University-Purdue University Indianapolis (IUPUI)
