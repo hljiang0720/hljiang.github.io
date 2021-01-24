@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### <i class="fa fa-fw fa-graduate-cap" aria-hidden="true"></i> Research Interest
+### <i class="fa fa-fw fa-graduate-cap" aria-hidden="true"></i> Research Interests
   * **Privacy Preservation and Data Security** 
   * **Social Network and Big Data**
   * **Differential Privacy**
