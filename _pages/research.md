@@ -16,6 +16,8 @@ author_profile: true
 
 * **Privacy Computing in Social Netowrks**  
    * User privacy attacks on social networks: 
-   *Social network privacy defense mechanisms based on differential privacy protection: 
-    *Data utility analysis of privacy protection data in social networks.
    
+   *Social network privacy defense mechanisms based on differential privacy protection: 
+    
+    *Data utility analysis of privacy protection data in social networks.
+
