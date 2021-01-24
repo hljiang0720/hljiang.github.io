@@ -3,6 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+My main goal is to improve software reliability by focusing on:
 ### Book
 
 * Jiguo Yu, Xiuzhen Cheng, **Honglu Jiang**, Dongxiao Yu, **“Hierarchical Topology Control for Wireless Networks: Theory, Algorithms, and Simulation,”** CRC Press, Feb 2018.
