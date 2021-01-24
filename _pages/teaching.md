@@ -22,6 +22,9 @@ author_profile: true
   * Design the course projects in Cisco Packet Tracer, review students’ projects
   * Teach two class sessions of Project 6 and 7.
 
+* **Cryptography (Fall 2019)**
+  * Assist with classroom instruction and grade homework.
+
 ### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> Computer Networks (Fall 2020)
 
 * **Spring 2020:** Comp 681 Formal Methods (Graduate)
