@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Interest
+### <i class="fa fa-fw fa-graduate-cap" aria-hidden="true"></i> Research Interest
   * **Privacy Preservation and Data Security** 
   * **Social Network and Big Data**
   * **Differential Privacy**
@@ -12,7 +12,7 @@ author_profile: true
   * **Algorithm Design and Analysis**
 
 
-### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Prjoects
+### <i class="fa fa-fw fa-project-digram" aria-hidden="true"></i> Prjoects
 
 * **Privacy Computing in Social Netowrks**
   * User privacy attacks on social networks
