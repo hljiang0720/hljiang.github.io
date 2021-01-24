@@ -4,7 +4,7 @@ permalink: /professional/
 author_profile: true
 ---
 
- <i class="fa fa-fw fa-bookmakr" aria-hidden="true"></i> Paper Reviewer
+ ###<i class="fa fa-fw fa-bookmakr" aria-hidden="true"></i> Paper Reviewer
   * **Journal of Computer Communications** 
   * **IEEE Transactions on Computational Social Systems**
   * **IEEE Transactions on Network Science and Engineering**
