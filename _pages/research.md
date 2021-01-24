@@ -3,7 +3,14 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-My main goal is to improve software reliability by focusing on:
+
+### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Interest
+  * **Privacy Preservation and Data Security** 
+  * **Social Network and Big Data**
+  * **Differential Privacy**
+  * **Internet of Tings (IoT)**
+  * **Algorithm Design and Analysis**
+
 ### Book
 
 * Jiguo Yu, Xiuzhen Cheng, **Honglu Jiang**, Dongxiao Yu, **“Hierarchical Topology Control for Wireless Networks: Theory, Algorithms, and Simulation,”** CRC Press, Feb 2018.
