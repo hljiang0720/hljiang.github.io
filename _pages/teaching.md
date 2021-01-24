@@ -25,12 +25,11 @@ author_profile: true
 * **Cryptography (Fall 2019)**
   * Assist with classroom instruction and grade homework.
 
-### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> Computer Networks (Fall 2020)
+### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> Assistant Professor at Shandong Polytechnic Institute
 
-* **Spring 2020:** Comp 681 Formal Methods (Graduate)
-  * **Spring 2020:** Comp 496: Senior Design (Undergrad)
-  * **Fall 2019:** Comp 611: System Testing and Evaluation (Graduate)
-  * **Fall 2019:** Comp 285: Design and Analysis of Algorithms (Undergrad)
-  * **Spring 2019:** Comp 681 Formal Methods (Graduate)
-* **Spring 2019:** Comp 496: Senior Design (Undergrad)
-* **Fall 2018:** Comp 285: Design and Analysis of Algorithms (Undergrad)
+* **Computer Networks (Spring 2014, 2015, 2018)**
+* **Algorithm Design and Analysis (Fall 2013, 2014)**
+
+### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> Seminar at Qufu Normal University
+
+* **Introduction to Cryptography (Sumer 2016)** 
