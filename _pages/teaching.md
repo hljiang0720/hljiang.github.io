@@ -17,7 +17,12 @@ author_profile: true
   * Holding Office Hours: Work with students one-on-one; learn about problems they are having in the course and provide support and guidance to students.
   * Grading and Corresponding: Grade problem sets, quizzes in Gradescope and correspond with students on Piazza.
 
-### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> List of courses taught at NC A&T
+* **Computer Networks (Fall 2020)**
+
+  * Design the course projects in Cisco Packet Tracer, review students’ projects
+  * Teach two class sessions of Project 6 and 7.
+
+### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> Computer Networks (Fall 2020)
 
 * **Spring 2020:** Comp 681 Formal Methods (Graduate)
   * **Spring 2020:** Comp 496: Senior Design (Undergrad)
