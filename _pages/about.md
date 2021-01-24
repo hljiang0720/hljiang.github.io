@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About me
+### <i class="fa fa-fw fa-smile-wink" aria-hidden="true"></i> About me
 I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [Georege Washington University](https://www.gwu.edu/) (GWU). Here is my current [CV](/files/ASullivan_CV.pdf).
 
 I’m a Ph.D. Candidate of Computer Science in George Washington University (GWU). My advisor is Xiuzhen Cheng. I obtained my MS. degree in computer science in 2012 and my B.S. degree in networking engineering in 2009 from Qufu Normal University. 
