@@ -11,6 +11,7 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> Teaching Assistant at GWU
 * **Discrete Structures (Spring 2020)** 
+
  * Assisting the Professor: Help design the course, problem sets, quizzes, prepare materials, assist with classroom instruction.
  * Conducting Lab Sessions: Review lectures and provide well-designed exercises.
  * Holding Office Hours: Work with students one-on-one; learn about problems they are having in the course and provide support and guidance to students.
