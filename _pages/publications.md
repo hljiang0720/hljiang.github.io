@@ -3,21 +3,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### 2020
+### Book
 
-* **Fault Localization for Declarative Models in Alloy**     
-K. Wang, **A.Sullivan**, D. Marinov, S. Khurshid    
-_TThe 31st International Symposium on Software Reliability Engineering_     
-(ISSRE) October 2020. \[[PDF](../files/ISSRE2020.pdf)\]
-* **ProFL: A Fault Localization Framework for Prolog**     
-G. Thompson, **A.Sullivan**     
-_The 29th ACM SIGSOFT International Symposium on Software Testing and Analysis_     
-(ISSTA Demo) July 2020. \[[PDF](../files/ISSTA2020Demo.pdf)\]
+* Jiguo Yu, Xiuzhen Cheng, **Honglu Jiang**, Dongxiao Yu, **“Hierarchical Topology Control for Wireless Networks: Theory, Algorithms, and Simulation”**, CRC Press, Feb 2018.
 
-### 2019
+### Journal Articles
 
-* **Solution Enumeration Abstraction - A Modeling Idiom to Enhance a Lightweight Formal Method**     
-**A.Sullivan**, D. Marinov, S. Khurshid     
+* **Honglu Jiang**, Jian Pei J, Dongxiao Yu, Jiguo Yu, Bei Gong, Xiuzhen Cheng, “Differential Privacy and Its Applications in Social Network. Analysis: A Survey,” IEEE transactions on Knowledge and Data Engineering, in revision.    
 _The 21st International Conference on Formal Engineering Methods_     
 (ICFEM) November 2019. \[[PDF](../files/SolutionEnumerationAbstractionICFEM.pdf)\]
 * **ARepair: A Repair Framework for Alloy**     
