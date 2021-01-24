@@ -5,9 +5,9 @@ author_profile: true
 ---
 <link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700|Righteous" rel="stylesheet">
 
-<h4>"Any increase in knowledge anywhere helps pave the way for an increase in knowledge everywhere."</h4>
+<h4>"Education is not the filling of a pail, but the lighting of a fire."</h4>
  
- *~Isaac Asimov*
+ *~William Butler Yeats*
 
 ### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> Teaching Assistant at GWU
 * **Discrete Structures (Spring 2020)** 
