@@ -9,7 +9,7 @@ author_profile: true
  
  *~William Butler Yeats*
 
-### <i class="fa fa-fw fa-user-class" aria-hidden="true"></i> Teaching Assistant at GWU
+### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Teaching Assistant at GWU
 * **Discrete Structures (Spring 2020)** 
 
   * Assisting the Professor: Help design the course, problem sets, quizzes, prepare materials, assist with classroom instruction.
@@ -25,11 +25,11 @@ author_profile: true
 * **Cryptography (Fall 2019)**
   * Assist with classroom instruction and grade homework.
 
-### <i class="fa fa-fw fa-user-class" aria-hidden="true"></i> Assistant Professor at Shandong Polytechnic Institute
+### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Assistant Professor at Shandong Polytechnic Institute
 
 * **Computer Networks (Spring 2014, 2015, 2018)**
 * **Algorithm Design and Analysis (Fall 2013, 2014)**
 
-### <i class="fa fa-fw fa-keynote" aria-hidden="true"></i> Seminar at Qufu Normal University
+### <i class="fa fa-fw fa-file-powerpoint" aria-hidden="true"></i> Seminar at Qufu Normal University
 
 * **Introduction to Cryptography (Sumer 2016)** 
