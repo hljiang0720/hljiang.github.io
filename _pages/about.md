@@ -11,7 +11,7 @@ redirect_from:
 ### <i class="fa fa-fw fa-smile-wink" aria-hidden="true"></i> About me
 I am a Ph.D. Candidate of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [Georege Washington University](https://www.gwu.edu/) (GWU). Here is my current [CV](/files/ASullivan_CV.pdf).
 
-I’m pursuing my Ph.D. of Computer Science in George Washington University (GWU). My advisor is Xiuzhen Cheng. I obtained my MS. degree in computer science in 2012 and my B.S. degree in networking engineering in 2009 from Qufu Normal University. 
+I’m pursuing my Ph.D. of Computer Science under supervision of Professor Xiuzhen Cheng. I obtained my MS. degree in computer science in 2012 and my B.S. degree in networking engineering in 2009 from Qufu Normal University. 
   
 ### <i class="fa fa-fw fa-user-md" aria-hidden="true"></i> Appointments
 
