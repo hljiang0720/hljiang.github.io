@@ -29,5 +29,5 @@ I’m pursuing my Ph.D. of Computer Science under supervision of Professor Xiuzh
   
  <center><img src="images/a.jpeg" alt=""><img src="images/b.jpeg" alt=""> <img src="images/c.jpeg" alt=""> <img src="images/d.jpeg" alt=""> </center>
   <br>
-  I love drawing and cooking with my dear daughter. She is my sunshine. We like getting out of house, visiting national parks.
+  I love drawing and cooking with my dear daughter. She is my sunshine. We like getting out of house, hiking and visiting national parks.
   
