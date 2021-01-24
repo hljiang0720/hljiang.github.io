@@ -13,7 +13,7 @@ I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/
 
 I’m a Ph.D. Candidate of Computer Science in George Washington University (GWU). My advisor is Xiuzhen Cheng. I obtained my MS. degree in computer science in 2012 and my B.S. degree in networking engineering in 2009 from Qufu Normal University. 
   
-### <i class="fa fa-fw fa-user-md" aria-hidden="true"></i> APPOINTMENTS
+### <i class="fa fa-fw fa-user-md" aria-hidden="true"></i> Appointments
 
 * **Assistant Professor (Sep. 2013-Jan. 2019)**
 
