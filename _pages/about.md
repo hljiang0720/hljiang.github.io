@@ -27,7 +27,7 @@ I’m pursuing my Ph.D. of Computer Science under supervision of Professor Xiuzh
 
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Hobbies</h3>
   
- <center><img src="images/a.jpeg" alt=""><img src="images/b.jpeg" alt=""> <img src="images/c.jpeg" alt=""> <img src="images/d.jpeg" alt=""> </center>
+ <center><img src="images/a.jpeg" alt=""> <img src="images/c.jpeg" alt=""> <img src="images/d.jpeg" alt=""> </center>
   <br>
   I love drawing and cooking with my dear daughter. She is my sunshine. We like getting out of house, hiking and visiting national parks.
   
