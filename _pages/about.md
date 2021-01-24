@@ -15,12 +15,11 @@ I’m a Ph.D. Candidate of Computer Science in George Washington University (GWU
 
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Interest
 My main goal is to improve software reliability by focusing on:
-  * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Regression Testing, and
-Mutation Testing
-  * **Formal Methods and Programming Languages:** Model Based Testing, First-Order Logic, Program Synthesis, Model
-Checking and Symbolic Execution
- * **Upcoming Service:** SPIN 2020 (PC Member), ESEC/FSE 2020 Tool Demonstrations Track (PC Member)
- 
+  * **Privacy Preservation and Data Security** 
+  * **Social Network and Big Data**
+  * **Differential Privacy**
+  * **Internet of Tings (IoT)**
+  * **Algorithm Design and Analysis**
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
