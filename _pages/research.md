@@ -12,7 +12,7 @@ author_profile: true
   * **Algorithm Design and Analysis**
 
 
-### <i class="fa fa-fw fa-project-digram" aria-hidden="true"></i> Prjoects
+### <i class="fa fa-fw fa-project-diagram" aria-hidden="true"></i> Prjoects
 
 * **Privacy Computing in Social Netowrks**
   * User privacy attacks on social networks
