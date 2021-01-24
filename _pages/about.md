@@ -11,7 +11,7 @@ redirect_from:
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About me
 I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [Georege Washington University](https://www.gwu.edu/) (GWU). Here is my current [CV](/files/ASullivan_CV.pdf).
 
-I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin (hook'em) in 2017. My adviser is [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid/). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](files/dissertation.pdf). 
+I’m a Ph.D. Candidate of Computer Science in George Washington University (GWU). My advisor is Xiuzhen Cheng. I obtained my MS. degree in computer science in 2012 and my B.S. degree in networking engineering in 2009 from Qufu Normal University. 
 
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Interest
 My main goal is to improve software reliability by focusing on:
