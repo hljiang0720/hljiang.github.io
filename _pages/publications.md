@@ -8,7 +8,7 @@ author_profile: true
 * Jiguo Yu, Xiuzhen Cheng, **Honglu Jiang**, Dongxiao Yu, **“Hierarchical Topology Control for Wireless Networks: Theory, Algorithms, and Simulation,”** CRC Press, Feb 2018.
 
 ### <i class="fa fa-fw fa-book-open" aria-hidden="true"></i> Journal Articles
-* **Honglu Jiang**, Jian Pei J, Dongxiao Yu, Jiguo Yu, Bei Gong, Xiuzhen Cheng, “Differential Privacy and Its Applications in Social Network. Analysis: A Survey,” IEEE transactions on Knowledge and Data Engineering, in revision.    
+* **Honglu Jiang**, Jian Pei J, Dongxiao Yu, Jiguo Yu, Bei Gong, Xiuzhen Cheng, **“Differential Privacy and Its Applications in Social Network. Analysis: A Survey,”** IEEE transactions on Knowledge and Data Engineering, in revision.    
 
 * **Honglu Jiang**, Jiguo Yu, Xiuzhen Cheng, Cheng Zhang, Bei Gong, Haotian Yu, **“Structure-Attribute Based Social Network De-Anonymization with Spectral Graph Partitioning,”** IEEE Transactions on Computational Social Systems, in revision. 
  
@@ -30,7 +30,7 @@ author_profile: true
 
 * **Honglu Jiang**, Jiguo Yu, Chunqiang Hu, Cheng Zhang, and Xiuzhen Cheng, **"SA Framework Based De-Anonymization of Social Networks,"** Procedia Computer Science, Vol. 129, 2018, pp. 358-363.
 
-* Cheng Zhang, **Honglu Jiang**, Yawei Wan Qin Hu, Jiguo Yu, Xiuzhen Cheng, **“User Identity De-Anonymization Based on Attributes,” **International Conference on Wireless Algorithms, Systems, and Applications, Springer, 2019, pp. 458-469. 
+* Cheng Zhang, **Honglu Jiang**, Yawei Wan Qin Hu, Jiguo Yu, Xiuzhen Cheng, **“User Identity De-Anonymization Based on Attributes,"** International Conference on Wireless Algorithms, Systems, and Applications, Springer, 2019, pp. 458-469. 
 
 * Cheng Zhang, Shang Wu, **Honglu Jiang**, Yawei Wang, Jiguo Yu, Xiuzhen Cheng, **“Attribute-Enhanced De-Anonymization of Online Social Networks,”** International Conference on Computational Data and Social Networks, Springer, 2019, pp. 256-267.
 
