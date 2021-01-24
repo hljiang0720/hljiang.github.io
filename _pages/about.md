@@ -27,7 +27,7 @@ I’m a Ph.D. Candidate of Computer Science in George Washington University (GWU
 
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Hobbies</h3>
   
- <center><img src="images/a.jpeg" alt=""> <img src="images/2.jpg" alt=""> </center>
+ <center><img src="images/1.jpeg" alt=""> </center>
   <br>
   I love drawing and cooking with my dear daughter. She is my sunshine. We like getting out of house, visiting national parks.
   
