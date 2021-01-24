@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- <i class="fa fa-fw fa-smile-wink" aria-hidden="true"></i> About me
+###<i class="fa fa-fw fa-smile-wink" aria-hidden="true"></i> About me
 I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [Georege Washington University](https://www.gwu.edu/) (GWU). Here is my current [CV](/files/ASullivan_CV.pdf).
 
 I’m a Ph.D. Candidate of Computer Science in George Washington University (GWU). My advisor is Xiuzhen Cheng. I obtained my MS. degree in computer science in 2012 and my B.S. degree in networking engineering in 2009 from Qufu Normal University. 
@@ -27,7 +27,7 @@ I’m a Ph.D. Candidate of Computer Science in George Washington University (GWU
 
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Hobbies</h3>
   
- <center><img src="images/a.jpeg" alt=""> <img src="images/b.jpeg" alt=""> <img src="images/c.jpeg" alt=""><img src="images/d.jpeg" alt=""></center>
+ <center><img src="images/a.jpeg" alt=""> <img src="images/2.jpg" alt=""> <img src="images/c.jpeg" alt=""><img src="images/d.jpeg" alt=""></center>
   <br>
   I love drawing and cooking with my dear daughter. She is my sunshine. We like getting out of house, visiting national parks.
   
