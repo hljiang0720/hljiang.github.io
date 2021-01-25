@@ -24,7 +24,6 @@ author_profile: true
   * Assist with classroom instruction and grade homework.
 
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Assistant Professor at Shandong Polytechnic Institute
-
 * **Computer Networks (Spring 2014, 2015, 2018)**
 * **Algorithm Design and Analysis (Fall 2013, 2014)**
 
