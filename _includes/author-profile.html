@@ -32,13 +32,13 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-envelope fa-2x" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-envelope font-size:$type-size-7;" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
        {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate fa-1x" aria-hidden="true"></i> ResearchGate</a></li>
+        <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate font-size:$type-size-7" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
