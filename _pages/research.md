@@ -15,7 +15,7 @@ author_profile: true
 ### <i class="fa fa-fw fa-project-diagram" aria-hidden="true"></i> Prjoects
 
 * **Privacy Computing in Social Networks**
-  * User privacy attacks on social networks
+  *  User privacy attacks on social networks
   *  Social network privacy defense mechanisms based on differential privacy 
   *  Data utility analysis of privacy protection data in social networks.
 
