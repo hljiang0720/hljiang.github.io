@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ### <i class="fa fa-fw fa-smile-wink" aria-hidden="true"></i> About me
-I am a Ph.D. candidate of [Computer Science](https://www.cs.seas.gwu.edu/) at [George Washington University](https://www.gwu.edu/) (GWU). Here is my current [CV](/files/Honglu Jiang.pdf).
+I am a Ph.D. candidate in the Department of [Computer Science](https://www.cs.seas.gwu.edu/) at the [George Washington University](https://www.gwu.edu/) (GWU). Here is my current [CV](/files/Honglu Jiang.pdf).
 
-I’m pursuing my Ph.D. in Computer Science under supervision of Professor Xiuzhen Cheng. I obtained my M.S. degree in computer science in 2012 and my B.S. degree in networking engineering in 2009 from Qufu Normal University. 
+I’m pursuing my Ph.D. in Computer Science under supervision of Professor Xiuzhen Cheng. I obtained my M.S. degree in Computer Science in 2012 and my B.S. degree in Networking Engineering in 2009 from Qufu Normal University. 
   
 ### <i class="fa fa-fw fa-user-md" aria-hidden="true"></i> Appointments
 
