@@ -17,7 +17,7 @@ author_profile: true
   * Grading and Corresponding: Grade problem sets, quizzes in Gradescope and correspond with students on Piazza.
 
 * **Computer Networks (Fall 2020)**
-  * Design the course projects in Cisco Packet Tracer, review students’ projects
+  * Design the course projects in Cisco Packet Tracer, review students’ projects.
   * Teach two class sessions of Project 6 and 7.
 
 * **Cryptography (Fall 2019)**
@@ -26,7 +26,3 @@ author_profile: true
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Assistant Professor at Shandong Polytechnic Institute
 * **Computer Networks (Spring 2014, 2015, 2018)**
 * **Algorithm Design and Analysis (Fall 2013, 2014)**
-
-### <i class="fa fa-fw fa-file-powerpoint" aria-hidden="true"></i> Seminar at Qufu Normal University
-
-* **Introduction to Cryptography (Sumer 2016)** 
