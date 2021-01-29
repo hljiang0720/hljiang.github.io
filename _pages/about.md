@@ -18,7 +18,7 @@ I am pursuing my Ph.D. in Computer Science under supervision of Professor Xiuzhe
 * **Assistant Professor (Sep. 2013-Jan. 2019)**
   * Shandong Polytechnic Institute, Jinan, Shandong, China
 * **Network Engineer (Jul. 2012-Aug. 2013)]**
-  * Affiliated Hospital of Taishan Medical University, Tai’an, Shandong, China
+  * Taishan Medical University Affiliated Hospital, Tai’an, Shandong, China
 
 
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Hobbies</h3>
