@@ -10,7 +10,7 @@ author_profile: true
 ### <i class="fa fa-fw fa-book-open" aria-hidden="true"></i> Journal Articles
 * **Honglu Jiang**, Jian Pei, Dongxiao Yu, Jiguo Yu, Bei Gong, Xiuzhen Cheng, **“Differential Privacy and Its Applications in Social Network Analysis: A Survey,”** IEEE transactions on Knowledge and Data Engineering, in revision.    
 * **Honglu Jiang**, Jiguo Yu, Xiuzhen Cheng, Cheng Zhang, Bei Gong, Haotian Yu, **“Structure-Attribute Based Social Network De-Anonymization with Spectral Graph Partitioning,”** IEEE Transactions on Computational Social Systems, in revision.  
-* Cheng Zhang, **Honglu Jiang**, Xiuzhen Cheng, Feng Zhao, Zhipeng Cai, Zhi Tian, **“Utility Analysis on Privacy-Preservation Algorithms for Online Social Networks: An Empirical Study,”** Personal and Ubiquitous Computing, Aug. 2019, pp.1-7.
+* Cheng Zhang, **Honglu Jiang**, Xiuzhen Cheng, Feng Zhao, Zhipeng Cai, Zhi Tian, **“Utility Analysis on Privacy-Preservation Algorithms for Online Social Networks: An Empirical Study,”** Personal and Ubiquitous Computing, Aug. 2019, pp.1-17.
 * Lina Ni, Chao Li, Xiao Wang, **Honglu Jiang**, Jiguo Yu, **“DP-MCDBSCAN: Differential Privacy Preserving Multi-core DBSCAN Clustering for Network User Data,”** IEEE Access, Vol. 6, 2018, pp. 21053-21063.
 * Biwei Yan, Jiguo Yu, Meihong Yang, **Honglu Jiang**, Zhiguo Wan, Lina Ni, **“A Novel Distributed Social Internet of Things Service Recommendation Scheme Based on LSH Forest,”** Personal and Ubiquitous Computing, 2019, pp. 1-14.
 * Kan Yu, Meng Gao, **Honglu Jiang**, Guangshun Li, **“Multi-Leader Election in Dynamic Sensor Networks,”** EURASIP Journal on Wireless Communications and Networking, 2017, pp. 1-14.
