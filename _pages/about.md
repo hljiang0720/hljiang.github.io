@@ -23,9 +23,7 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
   * Taishan Medical University Affiliated Hospital, Tai’an, Shandong, China
 
 
-### <i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> News
+<h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> News</h3>
+  
 
-  * **May 2021:** Our paper accepted into [IEEE Transactions on Computational Social Systems] “Structure-Attribute Based Social Network De-Anonymization with Spectral Graph Partitioning".
- * **April 2021:** Our paper accepted into [IEEE transactions on Knowledge and Data Engineering] “Differential Privacy and Its Applications in Social Network Analysis: A Survey”.
-
-
+  
