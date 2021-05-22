@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Honglu (Claire) Jiang"
+title                    : "Honglu (Claire) Jiang, Ph.D."
 title_separator          : "-"
-name                     : &name "Honglu (Claire) Jiang"
-description              : &description "Honglu (Claire) Jiang. A Ph.D. Candidate in Computer Science"
+name                     : &name "Honglu (Claire) Jiang, Ph.D."
+description              : &description "Honglu (Claire) Jiang. Assistant Professor of Computer Science"
 url                      : https://hljiang0720.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hljiang0720/hljiang0720.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Honglu (Claire) Jiang"
+  name             : "Honglu (Claire) Jiang, Ph.D."
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Computer Science"
+  bio              : "Assistant Professor of Computer Science"
   #location         : ERB 529
-  #employer         : "UT Arlington"
+  employer         : "UTRGV"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=fiY8is0AAAAJ"
   email            : "hljiang0720@gwu.edu"
   researchgate     : "https://www.researchgate.net/profile/Honglu_Jiang"
