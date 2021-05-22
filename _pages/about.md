@@ -23,9 +23,9 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
   * Taishan Medical University Affiliated Hospital, Tai’an, Shandong, China
 
 
-<h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Hobbies</h3>
-  
- <center><img src="images/a.jpeg" alt=""><img src="images/b.jpeg" alt=""> <img src="images/c.jpeg" alt=""> <img src="images/d.jpeg" alt=""> </center>
-  <br>
-  I love drawing and cooking with my dear daughter. She is my sunshine. We like getting out of house, hiking and visiting national parks.
-  
+###<i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> News
+
+  * **May 2021:** Our paper accepted into [IEEE Transactions on Computational Social Systems] “Structure-Attribute Based Social Network De-Anonymization with Spectral Graph Partitioning".
+ * **April 2021:** Our paper accepted into [IEEE transactions on Knowledge and Data Engineering] “Differential Privacy and Its Applications in Social Network Analysis: A Survey”.
+
+
