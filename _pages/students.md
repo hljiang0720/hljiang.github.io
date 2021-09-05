@@ -6,10 +6,11 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-user-plus" aria-hidden="true"></i> Prospective Students
 
-**RAships/TAships/REU appointments available:** Please contact me if you are a self-motivated PhD student (or graduate student interested in our PhD program) with **strong programming skills** and **strong interests** in autonomous systems, software engineering and verification. Please include a copy of your CV/Resume, including descriptions of your education background, programming skills, and previous projects, in your correspondence. 
+**RAships/TAships/REU appointments available:** Feel free to contact me if you are a self-motivated graduate or undergraduate student interested in Cyber security projects with **strong programming skills** and **strong interests** in wireless and mobile security, IoT security and blockchain. Please include a copy of your CV/Resume, including descriptions of your education background, programming skills, and previous projects, in your correspondence. 
 
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
-* **Anahita Samadi** <br> - Doctoral, Focus: Machine Learning, Software Engineering <br> - Projected Graduation: Spring 2024
+* **S M Sarwar** <br> - CS Master Student, Focus: Machine Learning
+* 
 * **Tanvir Ahmed Khan** <br> - Doctoral, Focus: Verification of Formal Modeling Languages <br> - Projected Graduation: Spring 2024
 * **Prajkta Krishna Jagtap** <br> - Masters Thesis, Focus: Verification of Formal Modeling Languages  <br> - Projected Graduation: Spring 2021
 
