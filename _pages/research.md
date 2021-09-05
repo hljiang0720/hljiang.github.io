@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### <i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i> Research Interests
-  * **Privacy Preservation and Data Security** 
+  * **Wireless and Mobile Security** 
   * **Social Network and Big Data**
   * **Differential Privacy**
   * **Internet of Tings (IoT)**
