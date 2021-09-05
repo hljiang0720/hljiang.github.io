@@ -5,17 +5,18 @@ main:
     
 #  - title: "Students"
 #    url: /students/
-
+  - title: "Research"
+    url: /research/
+  
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Research"
-    url: /research/
+
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Professional Affiliations"
+  - title: "Service"
     url: /professional/
 
 #  - title: "Broader Impacts"
