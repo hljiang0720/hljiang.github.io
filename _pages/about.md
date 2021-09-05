@@ -15,6 +15,7 @@ I am an Assistant Professor of [Computer Science](https://www.utrgv.edu/csci/) a
 I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.gwu.edu/) under supervision of Professor Xiuzhen Cheng at the [George Washington University](https://www.gwu.edu/) (GWU). I obtained my M.S. degree in Computer Science in 2012 from Qufu Normal University. 
 
   
+<h3><i class="fa fa-fw fa-university" aria-hidden="true"></i> News</h3>  I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.
 
 
 
