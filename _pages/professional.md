@@ -1,5 +1,5 @@
 ---
-title: "Service"
+title: "Services"
 permalink: /professional/
 author_profile: true
 ---
