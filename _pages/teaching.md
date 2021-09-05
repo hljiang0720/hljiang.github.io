@@ -17,10 +17,6 @@ author_profile: true
 * This course presents the UNIX file system, the commonly used utilities, editors, shell programming and scripting. It includes instruction in software development in the UNIX/Linux environment. In addition, a brief overview of the internal components of the operating system will be covered. 
 
 
-
-
-
-
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Teaching Assistant at GWU
 * **CSCI 1311 Discrete Structures (Spring 2020)** 
   * Assisting the Professor: Help design the course, problem sets, quizzes, prepare materials, assist with classroom instruction.
@@ -32,6 +28,6 @@ author_profile: true
   * Design the course projects in Cisco Packet Tracer, review students’ projects.
   * Teach two class sessions of Project 6 and 7.
 
-* **CCSI 4331 Cryptography (Fall 2019)**
+* **CSCI 4331 Cryptography (Fall 2019)**
   * Assist with classroom instruction and grade homework.
 
