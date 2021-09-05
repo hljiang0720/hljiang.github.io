@@ -9,6 +9,18 @@ author_profile: true
  
  *~William Butler Yeats*
 
+
+### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Courses taught at UTRGV
+
+* **CSCI 2344 Programming in Unix/Linux Environment (Fall 2021)** 
+
+* This course presents the UNIX file system, the commonly used utilities, editors, shell programming and scripting. It includes instruction in software development in the UNIX/Linux environment. In addition, a brief overview of the internal components of the operating system will be covered. 
+
+
+
+
+
+
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Teaching Assistant at GWU
 * **Discrete Structures (Spring 2020)** 
   * Assisting the Professor: Help design the course, problem sets, quizzes, prepare materials, assist with classroom instruction.
