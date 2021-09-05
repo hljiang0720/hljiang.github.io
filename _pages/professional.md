@@ -1,5 +1,5 @@
 ---
-title: "Professional Affiliations"
+title: "Service"
 permalink: /professional/
 author_profile: true
 ---
