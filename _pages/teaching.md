@@ -22,16 +22,16 @@ author_profile: true
 
 
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Teaching Assistant at GWU
-* **Discrete Structures (Spring 2020)** 
+* **CSCI 1311 Discrete Structures (Spring 2020)** 
   * Assisting the Professor: Help design the course, problem sets, quizzes, prepare materials, assist with classroom instruction.
   * Conducting Lab Sessions: Review lectures and provide well-designed exercises.
   * Holding Office Hours: Work with students one-on-one; learn about problems they are having in the course and provide support and guidance to students.
   * Grading and Corresponding: Grade problem sets, quizzes in Gradescope and correspond with students on Piazza.
 
-* **Computer Networks (Fall 2020)**
+* **CSCI 4431 Computer Networks (Fall 2020)**
   * Design the course projects in Cisco Packet Tracer, review students’ projects.
   * Teach two class sessions of Project 6 and 7.
 
-* **Cryptography (Fall 2019)**
+* **CCSI 4331 Cryptography (Fall 2019)**
   * Assist with classroom instruction and grade homework.
 
