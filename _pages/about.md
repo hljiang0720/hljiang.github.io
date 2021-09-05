@@ -14,10 +14,6 @@ I am an Assistant Professor of [Computer Science](https://www.utrgv.edu/csci/) a
 
 I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.gwu.edu/) under supervision of Professor Xiuzhen Cheng at the [George Washington University](https://www.gwu.edu/) (GWU). I obtained my M.S. degree in Computer Science in 2012 from Qufu Normal University. 
 
-
-
-<h4>I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.</h4>
-
  
 
 
@@ -27,3 +23,6 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 * **April 2021:** Our paper accepted into IEEE transactions on Knowledge and Data Engineering “Differential Privacy and Its Applications in Social Network Analysis: A Survey”.
 
+
+
+<h4>I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.</h4>
