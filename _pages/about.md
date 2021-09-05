@@ -10,11 +10,12 @@ redirect_from:
 
 ### <i class="fa fa-fw fa-smile-wink" aria-hidden="true"></i> About me
 
-I am an Assistant Professor of Computer Science at The University of Texas Rio Grande Valley (UTRGV). Here is my current [CV](/files/Honglu Jiang.pdf).
+I am an Assistant Professor of [Computer Science](https://www.utrgv.edu/csci/) at [The University of Texas Rio Grande Valley (UTRGV)](https://www.utrgv.edu/en-us/). Here is my current [CV](/files/Honglu Jiang.pdf).
 
-I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.gwu.edu/) under supervision of Professor Xiuzhen Cheng at the [George Washington University](https://www.gwu.edu/) (GWU). I obtained my M.S. degree in Computer Science in 2012 and my B.S. degree in Networking Engineering in 2009 from Qufu Normal University. 
+I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.gwu.edu/) under supervision of Professor Xiuzhen Cheng at the [George Washington University](https://www.gwu.edu/) (GWU). I obtained my M.S. degree in Computer Science in 2012 from Qufu Normal University. 
 
   
+* **I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV..
 
 
 
