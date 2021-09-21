@@ -13,7 +13,7 @@ main:
     url: /teaching/    
 
  - title: "Students"
-     url: /students/
+    url: /students/
 
   - title: "Publications"
     url: /publications/
