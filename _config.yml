@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Honglu (Claire) Jiang, Ph.D."
+title                    : "Honglu Jiang, Ph.D."
 title_separator          : "-"
-name                     : &name "Honglu (Claire) Jiang, Ph.D."
+name                     : &name "Honglu Jiang, Ph.D."
 description              : &description "Honglu (Claire) Jiang. Assistant Professor of Computer Science"
 url                      : https://hljiang0720.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Honglu (Claire) Jiang, Ph.D."
+  name             : "Honglu Jiang, Ph.D."
   avatar           : "profile.png"
   bio              : "Assistant Professor of Computer Science"
   location         :  BSETB 1.510
