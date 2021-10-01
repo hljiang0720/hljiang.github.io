@@ -10,6 +10,8 @@ author_profile: true
   * **IEEE Transactions on Network Science and Engineering**
   * **ACM Transactions on Cyber-Physical Systems**
   * **IEEE Internet of Things Journal**
+  * **IEEE INFOCOM 2022
+  * **Journal of Computers & Security
 
 ### <i class="fa fa-fw fa-handshake" aria-hidden="true"></i> Conference Session Chair
   * **WASA 2019** 
