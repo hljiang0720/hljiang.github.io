@@ -12,7 +12,7 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
 * **S M Sarwar** <br> - CS Master Student, Focus: Machine Learning
-* 
+
 
 
 
