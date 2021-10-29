@@ -30,14 +30,14 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
     
  
  
-*  **October 2021:** July 2021: Our paper submmited HCC-SI “Differentially Private Data Publication with Multi-level Data Utility".
-* ***October 2021:** July 2021: Our paper submmited ICASSP “Social Welfare Maximization in Cross-Silo Federated Learning".
+*  **October 2021:** Our paper submmited HCC-SI “Differentially Private Data Publication with Multi-level Data Utility".
+* **October 2021:** July 2021: Our paper submmited ICASSP “Social Welfare Maximization in Cross-Silo Federated Learning".
 
-* **September 2021** I will be teh committee member of "Cyber Security Advisor Committee" at UTRGV.
+* **September 2021:** I will be teh committee member of "Cyber Security Advisor Committee" at UTRGV.
 
-*  **July 2021:** July 2021: Our paper submmited Computers & Security “Strategic Signaling for Utility Control ni Audit Games".
+*  **July 2021:** Our paper submmited Computers & Security “Strategic Signaling for Utility Control ni Audit Games".
 
-*  **May 2021:** May 2021: Our paper accepted into IEEE Transactions on Computational Social Systems “Structure-Attribute Based Social Network De-Anonymization with Spectral Graph Partitioning".
+*  **May 2021:** Our paper accepted into IEEE Transactions on Computational Social Systems “Structure-Attribute Based Social Network De-Anonymization with Spectral Graph Partitioning".
 
  * **April 2021:** Our paper accepted into IEEE transactions on Knowledge and Data Engineering “Differential Privacy and Its Applications in Social Network Analysis: A Survey”.
 
