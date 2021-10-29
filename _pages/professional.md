@@ -6,7 +6,7 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-bookmark" aria-hidden="true"></i> Paper Reviewer
   * **Frontiers of Information Technology & Electronic Engineering**
-  * **Digital Communications and Networks* 
+  * **Digital Communications and Networks** 
   * **Journal of Computer Communications** 
   * **EURASIP Journal on Wirelss Communications and Networking**
   * **Journal of Computer & Security** 
