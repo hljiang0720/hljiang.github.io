@@ -4,11 +4,6 @@ main:
   - title: "Research"
     url: /research/
     
- # - title: "Students"
- #   url: /students/
- 
-  #- title: "Research"
- #   url: /research/
   
 
   - title: "Publications"
@@ -21,9 +16,6 @@ main:
   - title: "Students"
     url: /students/
   
-
-  - title: "Publications"
-    url: /publications/
 
   - title: "Services"
     url: /professional/
