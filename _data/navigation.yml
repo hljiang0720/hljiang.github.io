@@ -4,14 +4,23 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Students"
-    url: /students/
+ # - title: "Students"
+ #   url: /students/
  
   #- title: "Research"
  #   url: /research/
   
+
+  - title: "Publications"
+    url: /publications/
+
+
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+
+  - title: "Students"
+    url: /students/
+  
 
   - title: "Publications"
     url: /publications/
