@@ -27,16 +27,16 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 *  **Federated Learning and edge computing**
 
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> News</h3>
+
+ * **June 2022:** I was invited to be a PC member of KDD Time-series Workshop (MILETS 2022).
     
+ * **May 2022:** Our paper entitled “Differentially Private Data Publication with Multi-level Data Utility" has been accepted by ELSEVIER High-Confidence Computing.
  
- 
-*  **October 2021:** Our paper submmited HCC-SI “Differentially Private Data Publication with Multi-level Data Utility".
+* **May 2022:** Our paper entitled "Strategic Signaling for Utility Control in Audit Games" has been accepted by ELSEVIER Computers & Security. 
+
+* **Jan 2022:** Our paper entitled "Social Welfare Maximization in Cross-Siso Federated Learning" has been accepted by IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022.
   
-*  **October 2021:** Our paper submmited ICASSP “Social Welfare Maximization in Cross-Silo Federated Learning".
-
-* **September 2021:**  I will be teh committee member of "Cyber Security Advisor Committee" at UTRGV.
-
-*  **July 2021:** Our paper submmited Computers & Security “Strategic Signaling for Utility Control ni Audit Games".
+* **September 2021:**  I will serve as the committee member of "Cyber Security Advisor Committee" at UTRGV.
 
 *  **May 2021:** Our paper accepted into IEEE Transactions on Computational Social Systems “Structure-Attribute Based Social Network De-Anonymization with Spectral Graph Partitioning".
 
