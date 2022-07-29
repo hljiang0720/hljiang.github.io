@@ -6,10 +6,10 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i> Research Interests
   * **Wireless and Mobile Security** 
-  * **Social Network and Big Data**
   * **Differential Privacy**
   * **Internet of Tings (IoT)**
-  * **Algorithm Design and Analysis**
+  * **Federated Learning and edge computing**
+  * **Social Network and Big Data**
 
 
 ### <i class="fa fa-fw fa-project-diagram" aria-hidden="true"></i> Prjoects
