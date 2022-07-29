@@ -20,7 +20,7 @@ author_profile: true
   * **IEEE Internet of Things Journal**
 
 
-## <i class="fa fa-fw fa-bookmark" aria-hidden="true"></i> Conference Reviewer
+### <i class="fa fa-fw fa-bookmark" aria-hidden="true"></i> Conference Reviewer
   * **IEEE INFOCOM 2021, 2022**
   * **KDD MILETS 2022**
   
@@ -28,11 +28,11 @@ author_profile: true
   * **WASA 2019** 
   * **IIKI 2017** 
 
-### <i class="fa fa-fw fa-handshake" aria-hidden="true"></i> Program Committe Memeber
+### <i class="fa-solid fa-comment-check" aria-hidden="true"></i> Program Committe Memeber
 
   * **KDD MILETS 2022**
-### <i class="fa fa-fw fa-handshake" aria-hidden="true"></i> Guest Editor
 
+### <i class="fa fa-fw fa-handshake" aria-hidden="true"></i> Guest Editor
 
   * **Digital Communications and Networks:** Special Issue "Advances in 5G/6G-enabled Crowd Sensing IoT"
   * **Sensors:** Special Issue "Advances in Sensing, Imaging, and Computing for Autonomous Driving"
