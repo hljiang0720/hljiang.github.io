@@ -20,7 +20,7 @@ author_profile: true
   * **IEEE Internet of Things Journal**
 
 
-### <i class="fa fa-pencil-square" aria-hidden="true"></i> Conference Reviewer
+### <i class="fa fa-commenting" aria-hidden="true"></i> Conference Reviewer
   * **IEEE INFOCOM 2021, 2022**
   * **KDD MILETS 2022**
   
