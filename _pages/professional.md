@@ -28,7 +28,7 @@ author_profile: true
   * **WASA 2019** 
   * **IIKI 2017** 
 
-### <i class="fa-solid fa-comment-check" aria-hidden="true"></i> Program Committe Memeber
+### <i class="fa fa-file-text-o" aria-hidden="true"></i> Program Committe Memeber
 
   * **KDD MILETS 2022**
 
