@@ -12,6 +12,12 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Courses taught at UTRGV
 
+* **CSCI 4341 IoT Principles & Hacking (Spring 2022)** 
+* This course covers fundamental concepts and topics in Internet of Things (IoT) including architecture, communications, security, and applications. A hands-on project to solve
+user needs using an IoT microcontroller is a key part of this course.
+
+* **CSCI 3333 Algorithms & Data Structures (Spring 2022)** 
+* This course is a continuation of data structures topics covered in CSCI 2380. Content includes theoretical topics in algorithmic efficiency and complexity, along with abstract data types, including graphs, networks, trees, and priority queues. Search topics, including hashing, trees and sorting algorithms including external sorting are introduced and compared. Computational complexity topics include the class P and NP, NP-completeness and reducibility, NP-completeness proofs, and NP-complete problems. 
 * **CSCI 2344 Programming in Unix/Linux Environment (Fall 2021)** 
   * This course presents the UNIX file system, the commonly used utilities, editors, shell programming and scripting. It includes instruction in software development in the UNIX/Linux environment. In addition, a brief overview of the internal components of the operating system will be covered. 
 
