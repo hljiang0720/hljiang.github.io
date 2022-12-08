@@ -27,7 +27,7 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 
 
-<h3>I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.</h3>
+ * **I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.**
 
 
 
@@ -39,6 +39,8 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
  * **December 2022:** I am honored to be invited to give a research talk at Saint Joseph's University (SJU).
  
  * **October 2022:** I was invited to serve as NSF Program Reviewer.
+
+ * **August 2022:** Started working as an assistant professor at Miami University.
  
  * **June 2022:** I served as as a co-Guest Editor of "Sensors: Special Issue \Advances in Sensing, Imaging and Computing for Autonomous Driving".
  
