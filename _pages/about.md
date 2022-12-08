@@ -25,6 +25,10 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 *  **Federated Learning and edge computing**
 
+
+
+<h3>I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.</h3>
+
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> News</h3>
 
  
@@ -50,6 +54,3 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
  * **April 2021:** Our paper accepted into IEEE transactions on Knowledge and Data Engineering “Differential Privacy and Its Applications in Social Network Analysis: A Survey”.
 
-
-
-<h3>I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.</h3>
