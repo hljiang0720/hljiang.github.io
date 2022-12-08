@@ -28,7 +28,7 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 
  
-<p><font size="+1" color="#7fffd4">I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.</font></p>
+<p><font size="+1" color="#8fbc8f">I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.</font></p>
 
 
 
