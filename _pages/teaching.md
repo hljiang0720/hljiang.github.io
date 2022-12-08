@@ -8,6 +8,8 @@ author_profile: true
 <h4>"Education is not the filling of a pail, but the lighting of a fire."</h4>
  
  *~William Butler Yeats*
+### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Courses taught at Miami University
+* **CYB 234 System Administration and Scripting for Cybersecurity
 
 
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Courses taught at UTRGV
