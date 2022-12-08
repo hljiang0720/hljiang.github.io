@@ -33,5 +33,4 @@ author_profile: true
 * **CSCI 4431 Computer Networks (Fall 2020)**
 
 * **CSCI 4331 Cryptography (Fall 2019)**
-  * Assist with classroom instruction and grade homework.
 
