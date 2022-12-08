@@ -27,6 +27,11 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> News</h3>
 
+ 
+ * **December 2022** I am so go glad that I was elevated to IEEE Senior Member grade.
+* **December 2022** I am honored to be invited to give a research talk at Saint Joseph's University (SJU).
+ * **October 2022:** I was invited to serve as NSF Program Reviewer.
+ * **June 2022:** I served as as a co-Guest Editor of "Sensors: Special Issue \Advances in Sensing, Imaging and Computing for Autonomous Driving".
  * **June 2022:** I was invited to be a PC member of KDD Time-series Workshop (MILETS 2022).
     
  * **May 2022:** Our paper entitled “Differentially Private Data Publication with Multi-level Data Utility" has been accepted by ELSEVIER High-Confidence Computing.
