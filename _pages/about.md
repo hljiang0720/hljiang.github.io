@@ -31,7 +31,7 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 
 
-<h3><i class="fa fa-newspaper-o" aria-hidden="true"></i> News</h3>
+<h3><i class="fa fa-camera-retro fa-lg" aria-hidden="true"></i> News</h3>
 
  
  * **December 2022:** I am so go glad that I was elevated to IEEE Senior Member grade.
