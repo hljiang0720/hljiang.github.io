@@ -15,8 +15,8 @@ author_profile: true
 ### <i class="fa fa-fw fa-project-diagram" aria-hidden="true"></i> Prjoects
 
 * **Privacy and Security in Federated Learning**
-  * Privacy Preservation in Federated Learning 
-  * Security Enhancement in Federated Learning
+  * Privacy Preservation with Differential Privacy and SMC
+  * Security Enhancement and Poisoning Attacks
   * Model Personalization in Federated Learning
 
 * **Privacy Computing in Social Networks**
