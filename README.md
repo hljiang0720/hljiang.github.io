@@ -1,6 +1,6 @@
  # hljiang0720.github.io
  <center>
-     <h1>Honglu (Hollie) Jiang</h1>
+     <h1>Honglu Jiang</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
