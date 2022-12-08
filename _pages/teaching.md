@@ -10,10 +10,11 @@ author_profile: true
  *~William Butler Yeats*
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Courses taught at Miami University
 
-* **CYB 234 System Administration and Scripting for Cybersecurity (Fall 2022)
+* **CYB 235 Computer Networks (Spring 2023)**
 
-* **CYB 235 Computer Networks (Spring 2023)
- 
+* **CYB 234 System Administration and Scripting for Cybersecurity (Fall 2022)**
+  * Introduction to Linux and Windows system administration tasks focusing on system administration skills, administering user capabilities, the file system, access controls, and other system services (e.g., firewall, and networking). 
+
 
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Courses taught at UTRGV
 
@@ -28,14 +29,8 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Teaching Assistant at GWU
 * **CSCI 1311 Discrete Structures (Spring 2020)** 
-  * Assisting the Professor: Help design the course, problem sets, quizzes, prepare materials, assist with classroom instruction.
-  * Conducting Lab Sessions: Review lectures and provide well-designed exercises.
-  * Holding Office Hours: Work with students one-on-one; learn about problems they are having in the course and provide support and guidance to students.
-  * Grading and Corresponding: Grade problem sets, quizzes in Gradescope and correspond with students on Piazza.
-
+  
 * **CSCI 4431 Computer Networks (Fall 2020)**
-  * Design the course projects in Cisco Packet Tracer, review students’ projects.
-  * Teach two class sessions of Project 6 and 7.
 
 * **CSCI 4331 Cryptography (Fall 2019)**
   * Assist with classroom instruction and grade homework.
