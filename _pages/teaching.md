@@ -9,8 +9,11 @@ author_profile: true
  
  *~William Butler Yeats*
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Courses taught at Miami University
-* **CYB 234 System Administration and Scripting for Cybersecurity
 
+* **CYB 234 System Administration and Scripting for Cybersecurity (Fall 2022)
+
+* **CYB 235 Computer Networks (Spring 2023)
+ 
 
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Courses taught at UTRGV
 
