@@ -14,8 +14,6 @@ author_profile: true
 * **Jenna Sayle** <br> - CS Master Student, 
                   <br> -Focus:Federated Learning, Privacy and Security
 
-* **David Falokun** <br> - CS Master Student, 
-                  <br> -Focus: Federated Learning
 
 * **Rachishun Banerjee (Co-Advised With Dr. Vaskar Raychoudhury)** <br> - CS Master Student, 
                   <br> -Focus: Federated Learning
