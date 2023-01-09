@@ -39,7 +39,7 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
  
  * **December 2022:** I am honored to be invited to give a research talk at Saint Joseph's University (SJU).
  
- * **October 2022:** I was invited to serve as NSF Program Reviewer.
+ * **October 2022:** I was invited to serve as a Panelist at NSF.
 
  * **August 2022:** Started working as an assistant professor at Miami University.
  
