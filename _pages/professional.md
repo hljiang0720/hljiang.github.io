@@ -8,6 +8,11 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-bookmark" aria-hidden="true"></i> Paper Reviewer
   * **IEEE Transactions on Knowledge and Data Engineering**
+  * **IEEE Transactions on Wireless Communications**
+  * **IEEE Transactions on Wireless Communications**
+  * **IEEE Internet of Things**
+  * **IEEE Transactions on Industrial Informatics**
+  * **IEEE Transactions on Neural Networks and Learning Systems**
   * **Frontiers of Information Technology & Electronic Engineering**
   * **Digital Communications and Networks** 
   * **International Journal of Intelligent Systems**
@@ -21,8 +26,8 @@ author_profile: true
 
 
 ### <i class="fa fa-check-circle" aria-hidden="true"></i> Conference Reviewer
-  * **IEEE INFOCOM 2021, 2022**
-  * **KDD MILETS 2022**
+  * **IEEE INFOCOM 2022, 2023**
+
   
 ### <i class="fa fa-fw fa-handshake" aria-hidden="true"></i> Conference Session Chair
   * **WASA 2019** 
@@ -31,6 +36,7 @@ author_profile: true
 ### <i class="fa fa-check-circle" aria-hidden="true"></i> Program Committe Memeber
 
   * **KDD MILETS 2022**
+  * **ICCCN 2023**
 
 ### <i class="fa fa-fw fa-handshake" aria-hidden="true"></i> Guest Editor
 
