@@ -13,7 +13,6 @@ author_profile: true
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
 * **Huy Tran** <br> - CS Master Student, 
                   <br> -Focus: Accuracy of Extended Reality (XR), encompassing Virtual Reality (VR) and Augmented Reality (AR) control
-
 * **Rachishun Banerjee (Co-Advised With Dr. Vaskar Raychoudhury)** <br> - CS Master Student, 
                   <br> -Focus: Federated Learning
 
