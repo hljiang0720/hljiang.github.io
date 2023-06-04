@@ -76,11 +76,30 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> **PROFESSION SERVICE**
 
++ **Panelist**
+    + NSF Panelist,2022
++ **Guest Editor**
+    + High Confidence Computing
+    + Special Issue on “Advances in 5G/6G-enabled Crowd Sensing IoT for Digital Communications and Networks, 2022
+    + Special Issue on “Advances in Sensing, Imaging, and Computing for Autonomous Driving” for Sensors, 2022
 + **Paper Reviewer**
+    + IEEE Internet of Things Journal
+    + IEEE Transactions on Knowledge and Data Engineering
+    + IEEE Transactions on Wireless Communications
+    + IEEE Transactions on Industrial Informatics
+    + IEEE Transactions on Vehicular Technology
+    + IEEE Transactions on Neural Networks and Learning Systems
+    + Computers & Security
     + Journal of Computer Communications 
     + IEEE Transactions on Computational Social Systems 
     + IEEE Transactions on Network Science and Engineering 
     + ACM Transactions on Cyber-Physical Systems (TCPS) 
     + IEEE Internet of Things Journal 
-+ **Conference Session Chair**
+    + IEEE INFOCOM 2022
+    + IEEE INFOCOM 2023
++ **Program Committee Member**
     + IIKI 2017
+    + ACM SIGKDD 2022
+    + REU Research in Networking and Systems (REUNS) 2022
+    + ICCCN 2023
+
