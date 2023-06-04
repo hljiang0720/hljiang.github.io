@@ -13,14 +13,13 @@ author_profile: true
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
 * **Huy Tran** <br> - CS Master Student, 
                   <br> -Focus: Accuracy of Extended Reality (XR), encompassing Virtual Reality (VR) and Augmented Reality (AR) control
-* **Jenna Sayle** <br> - CS Master Student, 
-                  <br> -Focus:Federated Learning, Privacy and Security
-
 
 * **Rachishun Banerjee (Co-Advised With Dr. Vaskar Raychoudhury)** <br> - CS Master Student, 
                   <br> -Focus: Federated Learning
 
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Previous Students
+* **Jenna Sayle** <br> - CS Undergraduate Student, 
+                  <br> -Focus:Federated Learning, Privacy and Security
 * **S M Sarwar** <br> - CS Master Student, 
                   <br> -Focus: Machine Learning
 
