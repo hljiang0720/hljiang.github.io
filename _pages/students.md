@@ -11,6 +11,8 @@ author_profile: true
 **RAships/TAships appointments available:** Feel free to contact me if you are a self-motivated graduate or undergraduate student interested in Cyber security projects with **strong programming skills** and **strong interests** in wireless and mobile security, IoT security and blockchain. Please include a copy of your CV/Resume, including descriptions of your education background, programming skills, and previous projects, in your correspondence. 
 
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
+* **Huy Tran** <br> - CS Master Student, 
+                  <br> -Focus: Accuracy of Extended Reality (XR), encompassing Virtual Reality (VR) and Augmented Reality (AR) control
 * **Jenna Sayle** <br> - CS Master Student, 
                   <br> -Focus:Federated Learning, Privacy and Security
 
