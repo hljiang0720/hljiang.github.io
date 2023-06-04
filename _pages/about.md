@@ -35,7 +35,9 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 <h3><i class="fa fa-camera-retro fa-lg" aria-hidden="true"></i> News</h3>
 
  * **April 2023:** I'm honored to get the award of RSA Grant: Privacy-Preserving and Robust Federated Learning for IoT Systems at Miami University as PI.
+ 
  * **April 2023:** Our paper entitled “DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization" has been accepted by IEEE transactions on Knowledge and Data   Engineering.
+ 
  * **December 2022:** I am so go glad that I was elevated to IEEE Senior Member grade.
  
  * **December 2022:** I am honored to be invited to give a research talk at Saint Joseph's University (SJU).
