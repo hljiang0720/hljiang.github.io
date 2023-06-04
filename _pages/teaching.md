@@ -11,6 +11,7 @@ author_profile: true
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Courses taught at Miami University
 
 * **CYB 235 Computer Networks (Spring 2023)**
+  * Introduction to the fundamentals of computer networking, five layers of the ISO/OSI and TCP/IP protocol stack and the practical and conceptual skills needed to build simple local area networks, perform basic device configurations, and implement subnet schemes and their IP addressing. Students will also configure and troubleshoot simulated networks consisting of end devices, switches and routers. The course will also cover appropriate security aspects for each of the above layers, concepts and topics in Internet of Things (IoT) including architecture, communications, security, and applications. 
 
 * **CYB 234 System Administration and Scripting for Cybersecurity (Fall 2022)**
   * Introduction to Linux and Windows system administration tasks focusing on system administration skills, administering user capabilities, the file system, access controls, and other system services (e.g., firewall, and networking). 
