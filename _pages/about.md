@@ -61,7 +61,7 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
   
 * **September 2021:**  I will serve as the committee member of "Cyber Security Advisor Committee" at UTRGV.
 
-*  **May 2021:** Our paper accepted into IEEE Transactions on Computational Social Systems “Structure-Attribute Based Social Network De-Anonymization with Spectral Graph Partitioning".
+* **May 2021:** Our paper accepted into IEEE Transactions on Computational Social Systems “Structure-Attribute Based Social Network De-Anonymization with Spectral Graph Partitioning".
 
  * **April 2021:** Our paper accepted into IEEE transactions on Knowledge and Data Engineering “Differential Privacy and Its Applications in Social Network Analysis: A Survey”.
 
