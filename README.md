@@ -61,18 +61,19 @@
     + [1] Jiguo Yu, Xiuzhen Cheng, Honglu Jiang, Dongxiao Yu. Hierarchical Topology Control for Wireless Networks: Theory, Algorithms, and. Simulation. CRC Press; 2018 Feb 5.
 
 + **Journal Paper**
-    + [2] Honglu Jiang, Jian Pei, Dongxiao Yu, Jiguo Yu, Bei Gong, Xiuzhen Cheng. Differential Privacy and Its Applications in Social Network. Analysis: A Survey. IEEE transactions on Knowledge and Data Engineering. (Admitted) 
-    + [3] Honglu Jiang, Jiguo Yu, Xiuzhen Cheng, Cheng Zhang, Bei Gong, Haotian Yu. Structure Attribute Based Social Network De Anonymization with Spectral Graph Partitioning. IEEE Transactions on Computational Social Systems. (Admitted) 
-    + [4] Cheng Zhang, Honglu Jiang, Xiuzhen Cheng, Feng Zhao, Zhipeng Cai, Zhi Tian. Utility analysis on privacy-preservation algorithms for online social networks: an empirical study. Personal and Ubiquitous Computing. 2019 Aug 7:1-7. 
-    + [5] Lina Ni, Chao Li, Xiao Wang, Honglu Jiang, and Jiguo Yu. 2018. DP-MCDBSCAN: Differential privacy preserving multi-core DBSCAN clustering for network user data. IEEE Access, 6, pp.21053-21063. 
-    + [6] Biwei Yan, Jiguo Yu, Meihong Yang, Honglu Jiang, Zhiguo Wan, Lina Ni. A novel distributed Social Internet of Things service. recommendation scheme based on LSH forest. Personal and Ubiquitous Computing. 2019 Oct 3:1-4. 
-    + [7] Kan Yu, Meng Gao, Honglu Jiang, Guangshun Li. Multi-leader election in dynamic sensor networks. EURASIP Journal on Wireless. Communications and Networking. 2017 Dec 1;2017(1):187. 
-    + [8] Yuhong Sun, Ruinian Li, Honglu Jiang, Jianchao Zheng, Lina Ni. Modeling and analysis of random dense CSMA networks. EURASIP. Journal on Wireless Communications and Networking. 2018 Dec 1;2018(1):121. 
-    + [9] Feng Li, Jiguo Yu, Feng Zhao, Honglu Jiang. A novel analysis of delay and power consumption for polling schemes in the IoT. Tsinghua Science and Technology. 2017 Jul 20;22(4):368-78.
-    + [10] Honglu Jiang, Haotian Yu, Xiuzhen Cheng, Jian Pei, Jiguo Yu. DP2-Pub: Differentially Private. High-Dimensional Data Publication with Invariant Post Randomization. IEEE 37th International Conference on Data Engineering (ICDE) 2021. (Admitted) 
-    + [11] Honglu Jiang, Jiguo Yu, Chunqiang Hu, Cheng Zhang, and Xiuzhen Cheng. "SA framework based de-anonymization of social networks." Procedia Computer Science 129 (2018): 358-363. 
-    + [12] Cheng Zhang, Honglu Jiang *, Yawei Wang, Qin Hu, Jiguo Yu, Xiuzhen Cheng. User identity De-anonymization based on attributes. International Conference on Wireless Algorithms, Systems, and Applications 2019 Jun 24 (pp. 458-469). Springer, Cham. 
-    + [13] Cheng Zhang, Shang Wu, Honglu Jiang, Yawei Wang, Jiguo Yu, Xiuzhen Cheng. Attribute-Enhanced De-anonymization of Online Social. Networks. International Conference on Computational Data and Social Networks 2019 Nov 18 (pp. 256-267). Springer, Cham.
+    + [2] Jiang, Honglu, et al. "DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization." IEEE Transactions on Knowledge and Data Engineering (2023).
+    + [3] Honglu Jiang, Jian Pei, Dongxiao Yu, Jiguo Yu, Bei Gong, Xiuzhen Cheng. Differential Privacy and Its Applications in Social Network. Analysis: A Survey. IEEE transactions on Knowledge and Data Engineering. (Admitted) 
+    + [4] Honglu Jiang, Jiguo Yu, Xiuzhen Cheng, Cheng Zhang, Bei Gong, Haotian Yu. Structure Attribute Based Social Network De Anonymization with Spectral Graph Partitioning. IEEE Transactions on Computational Social Systems. (Admitted) 
+    + [5] Cheng Zhang, Honglu Jiang, Xiuzhen Cheng, Feng Zhao, Zhipeng Cai, Zhi Tian. Utility analysis on privacy-preservation algorithms for online social networks: an empirical study. Personal and Ubiquitous Computing. 2019 Aug 7:1-7. 
+    + [6] Lina Ni, Chao Li, Xiao Wang, Honglu Jiang, and Jiguo Yu. 2018. DP-MCDBSCAN: Differential privacy preserving multi-core DBSCAN clustering for network user data. IEEE Access, 6, pp.21053-21063. 
+    + [7] Biwei Yan, Jiguo Yu, Meihong Yang, Honglu Jiang, Zhiguo Wan, Lina Ni. A novel distributed Social Internet of Things service. recommendation scheme based on LSH forest. Personal and Ubiquitous Computing. 2019 Oct 3:1-4. 
+    + [8] Kan Yu, Meng Gao, Honglu Jiang, Guangshun Li. Multi-leader election in dynamic sensor networks. EURASIP Journal on Wireless. Communications and Networking. 2017 Dec 1;2017(1):187. 
+    + [9] Yuhong Sun, Ruinian Li, Honglu Jiang, Jianchao Zheng, Lina Ni. Modeling and analysis of random dense CSMA networks. EURASIP. Journal on Wireless Communications and Networking. 2018 Dec 1;2018(1):121. 
+    + [10] Feng Li, Jiguo Yu, Feng Zhao, Honglu Jiang. A novel analysis of delay and power consumption for polling schemes in the IoT. Tsinghua Science and Technology. 2017 Jul 20;22(4):368-78.
+    + [11] Honglu Jiang, Haotian Yu, Xiuzhen Cheng, Jian Pei, Jiguo Yu. DP2-Pub: Differentially Private. High-Dimensional Data Publication with Invariant Post Randomization. IEEE 37th International Conference on Data Engineering (ICDE) 2021. (Admitted) 
+    + [12] Honglu Jiang, Jiguo Yu, Chunqiang Hu, Cheng Zhang, and Xiuzhen Cheng. "SA framework based de-anonymization of social networks." Procedia Computer Science 129 (2018): 358-363. 
+    + [13] Cheng Zhang, Honglu Jiang *, Yawei Wang, Qin Hu, Jiguo Yu, Xiuzhen Cheng. User identity De-anonymization based on attributes. International Conference on Wireless Algorithms, Systems, and Applications 2019 Jun 24 (pp. 458-469). Springer, Cham. 
+    + [14] Cheng Zhang, Shang Wu, Honglu Jiang, Yawei Wang, Jiguo Yu, Xiuzhen Cheng. Attribute-Enhanced De-anonymization of Online Social. Networks. International Conference on Computational Data and Social Networks 2019 Nov 18 (pp. 256-267). Springer, Cham.
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> **PROFESSION SERVICE**
 
@@ -98,8 +99,9 @@
     + IEEE INFOCOM 2022
     + IEEE INFOCOM 2023
 + **Program Committee Member**
+    + VTC2023
+    + ICCCN 2023
     + IIKI 2017
     + ACM SIGKDD 2022
     + REU Research in Networking and Systems (REUNS) 2022
-    + ICCCN 2023
 
