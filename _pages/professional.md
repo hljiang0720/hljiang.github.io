@@ -37,6 +37,7 @@ author_profile: true
 
   * **KDD MILETS 2022**
   * **ICCCN 2023**
+  * ** VTC 2023**
 
 ### <i class="fa fa-fw fa-handshake" aria-hidden="true"></i> Guest Editor
 
