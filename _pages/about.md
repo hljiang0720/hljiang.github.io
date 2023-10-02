@@ -11,7 +11,7 @@ redirect_from:
 ### <i class="fa fa-fw fa-smile-wink" aria-hidden="true"></i> About me
 
 I am an Assistant Professor of [Computer Science and Software Engineering](https://miamioh.edu/cec/academics/departments/cse/index.html) at [Miami University](https://miamioh.edu/). Prior to joining Miami University, I was an Assistant Professor of Cybersecurity program at UTRGV. 
-I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.gwu.edu/) under supervision of Professor Xiuzhen Cheng at the [George Washington University](https://www.gwu.edu/) (GWU). Here is my current CV.
+I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.gwu.edu/) under supervision of Professor Xiuzhen Cheng at the [George Washington University](https://www.gwu.edu/) (GWU). Here is my current [CV].()
 
  
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Research Interests</h3>
