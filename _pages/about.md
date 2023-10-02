@@ -18,12 +18,12 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 
 * **Privacy Preservation and Data Security**
-
-* **Social Network and Big Data**
-
+  
 *  **IoT Privacy and Security**
 
-*  **Federated Learning and edge computing**
+*  **Federated Learning and Edge Computing**
+
+* **Social Networkd and Big Data**
 
 
 
