@@ -34,6 +34,8 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 <h3><i class="fa fa-camera-retro fa-lg" aria-hidden="true"></i> News</h3>
 
+* **November 2023:** I was invited to serve as a Panelist at NSF.
+
  * **October 2023:** Our paper entitled “Reducing Latency in MEC Networks with Short-Packet Communications" has been accepted by IEEE Transactions on Vehicular Technology.
 
  * **August 2023:** Our paper entitled “Adaptive Edge-Level Personalization on Hierarchical Federated Learning" has been accepted by IEEE IPCCC 2023.
