@@ -35,7 +35,7 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 <h3><i class="fa fa-camera-retro fa-lg" aria-hidden="true"></i> News</h3>
 
 * **July 2024:** Our paper entitled “Reducing Latency in MEC Networks with Short-Packet Communications" has been accepted by IEEE Transactions on Vehicular Technology.
-* 
+
 * **November 2023:** I was invited to serve as a Panelist at NSF.
 
  * **October 2023:** Our paper entitled “On the Performance of Uplink NOMA Short-packet Communication System" has been accepted by IEEE Transactions on Vehicular Technology.
