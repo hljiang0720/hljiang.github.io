@@ -19,10 +19,11 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 * **Privacy Preservation and Data Security**
 
-* **AI Security** 
-* **Wireless and Mobile Security** 
+* **AI Security**
 
-*  **Federated Learning and Edge Computing**
+* **Wireless and Mobile Security**
+
+* **Federated Learning and Edge Computing**
 
 * **Social Networkd and Big Data**
 
