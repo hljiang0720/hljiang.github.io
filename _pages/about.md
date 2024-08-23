@@ -14,7 +14,7 @@ I am an Assistant Professor of [Computer Science and Software Engineering](https
 I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.gwu.edu/) under supervision of Professor Xiuzhen Cheng at the [George Washington University](https://www.gwu.edu/) (GWU). Here is my current [CV](./files/CV_Honglu_Jiang_updated.pdf).
 
  
-### <i class="fa fa-fw fa-puzzle-piece" aria-hidden="true" style="color:#cb4335"></i><i style="color:#cb4335">Research Interests</i>
+### <i class="fa fa-fw fa-puzzle-piece" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335">Research Interests</font>
 
 
 * **Privacy Preservation and Data Security**
@@ -27,7 +27,7 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 <p><font size="+1" color="#8fbc8f">I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.</font></p>
 
-### <i class="fa fa-fw fa-camera-retro" aria-hidden="true" style="color:#cb4335"></i><i style="color:#cb4335">News</i>
+### <i class="fa fa-fw fa-camera-retro" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335">News</font>
 
 * **July 2024:** Our paper entitled “Reducing Latency in MEC Networks with Short-Packet Communications" has been accepted by IEEE Transactions on Vehicular Technology.
 
