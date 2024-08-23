@@ -5,7 +5,7 @@ author_profile: true
 ---
 <link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700|Righteous" rel="stylesheet">
 
-<h4>"Education is not the filling of a pail, but the lighting of a fire."</h4>
+<h4><font color="#cb4335">"Education is not the filling of a pail, but the lighting of a fire."</font></h4>
  
  *~William Butler Yeats*
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335"> Courses taught at Miami University</font>
