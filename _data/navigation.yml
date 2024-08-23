@@ -1,23 +1,14 @@
 # main links links
 main:
 
-  - title: "Research"
-    url: /research/
-    
-
   - title: "Publications"
-    url: /publications/
-
-
+    url: /publications/    
+    
   - title: "Teaching"
-    url: /teaching/   
-
-  - title: "Students"
-    url: /students/
-  
-
-  - title: "Services"
-    url: /professional/
-
-#  - title: "Broader Impacts"
-#    url: /impacts/
+    url: /teaching/ 
+    
+  - title: "News"
+    url: /news/    
+    
+  - title: "Broader Impacts"
+    url: /impacts/ 
