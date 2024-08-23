@@ -43,5 +43,5 @@ author_profile: true
   * **Sensors:** Special Issue "Advances in Sensing, Imaging, and Computing for Autonomous Driving"
   * **High Confidence Computing**
 
-### <i class="fa fa-fw fa-handshake" aria-hidden="true"></i><font color="#cb4335"> NSF Panelist</font>
+### <i class="fa fa-fw fa-handshake" aria-hidden="true" style="color:#cb4335></i><font color="#cb4335"> NSF Panelist</font>
    * **NSF Reviewer 2023**
