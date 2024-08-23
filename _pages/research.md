@@ -25,7 +25,7 @@ author_profile: true
   * Data utility analysis of privacy protection data in social networks
 
 * **Intelligent IoT System with Self-evolving Unified Security Mechanism**     
-    * Integrated intelligent IoT control
-    * Self-evolving intelligent IoT defense mechanism
+  * Integrated intelligent IoT control
+   * Self-evolving intelligent IoT defense mechanism
 
    

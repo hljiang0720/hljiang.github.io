@@ -27,7 +27,7 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 <p><font size="+1" color="#8fbc8f">I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.</font></p>
 
-<h3><i class="fa fa-camera-retro fa-lg" aria-hidden="true"></i>News</h3>
+<h3><i class="fa fa-camera-retro fa-lg" aria-hidden="true" style="color:#cb4335"></i><i style="color:#cb4335">News</i></h3>
 
 * **July 2024:** Our paper entitled “Reducing Latency in MEC Networks with Short-Packet Communications" has been accepted by IEEE Transactions on Vehicular Technology.
 
