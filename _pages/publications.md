@@ -3,11 +3,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### <i class="fa fa-fw fa-book" aria-hidden="true"></i> Book
+### <i class="fa fa-fw fa-book" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335"> Book</font>
 
 * Jiguo Yu, Xiuzhen Cheng, **Honglu Jiang**, Dongxiao Yu, **“Hierarchical Topology Control for Wireless Networks: Theory, Algorithms, and Simulation,”** CRC Press, Feb 2018.
 
-### <i class="fa fa-fw fa-book-open" aria-hidden="true"></i> Journal Articles
+### <i class="fa fa-fw fa-book-open" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335"> Journal Articles</font>
 * **Honglu Jiang**, Haotian Yu, Xiuzhen Cheng, Jian Pei, Robert Pless Jiguo Yu, “DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization,” IEEE transactions on Knowledge and Data Engineering, 2023.
 * Jianan Chen, Qin Hu, **Honglu Jiang**, “Strategic signaling for utility control in audit
 games,” Computers & Security, 2022.
@@ -20,7 +20,7 @@ games,” Computers & Security, 2022.
 * Yuhong Sun, Ruinian Li, **Honglu Jiang**, Jianchao Zheng, Lina Ni, **“Modeling and Analysis of Random Dense CSMA Networks,”** EURASIP Journal on Wireless Communications and Networking, Dec. 2018, pp. 1-17.
 * Feng Li, Jiguo Yu, Feng Zhao, **Honglu Jiang, “A Novel Analysis of Delay and Power Consumption for Polling Schemes in the IoT,”** Tsinghua Science and Technology, Vol. 22, No. 4, 2017, pp. 368-378.
 
-### <i class="fa fa-fw fa-book-open" aria-hidden="true"></i> Conference Papers
+### <i class="fa fa-fw fa-book-open" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335"> Conference Papers</font>
 * Jianan Chen, Qin Hu, **Honglu Jiang**, ”SocialWelfare Maximization in Cross-Silo Federated Learning”, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.
 *  Zhiling Wang, Qin Hu, Minghui Xu, **Honglu Jiang**, “Blockchain-based Edge Resource Sharing for Metaverse,” IEEE 19th International Conference on Mobile Ad Hoc and Smart Systems (MASS) pp. 620-626, 2022.
 *  **Honglu Jiang**, Yifeng Gao, S M Sarwar, Luis GarzaPerez, Mahmudul Robin, Differential Privacy in Privacy-Preserving Big Data and Learning: Challenge and Opportunity, Silicon Valley Cyberse-curity Conference, 2021

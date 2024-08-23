@@ -1,12 +1,12 @@
 ---
 title: "Services"
-permalink: /professional/
+permalink: /services/
 author_profile: true
 ---
 
 
 
-### <i class="fa fa-fw fa-bookmark" aria-hidden="true"></i> Paper Reviewer
+### <i class="fa fa-fw fa-bookmark" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335"> Paper Reviewer</font>
   * **IEEE Transactions on Knowledge and Data Engineering**
   * **IEEE Transactions on Wireless Communications**
   * **IEEE Transactions on Wireless Communications**
@@ -25,25 +25,23 @@ author_profile: true
   * **IEEE Internet of Things Journal**
 
 
-### <i class="fa fa-check-circle" aria-hidden="true"></i> Conference Reviewer
+### <i class="fa fa-check-circle" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335"> Conference Reviewer</font>
   * **IEEE INFOCOM 2022, 2023**
 
   
-### <i class="fa fa-fw fa-handshake" aria-hidden="true"></i> Conference Session Chair
+### <i class="fa fa-fw fa-handshake" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335"> Conference Session Chair</font>
   * **WASA 2019** 
   * **IIKI 2017** 
 
-### <i class="fa fa-check-circle" aria-hidden="true"></i> Program Committee Memeber
-
+### <i class="fa fa-check-circle" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335"> Program Committee Memeber</font>
   * **KDD MILETS 2022**
   * **ICCCN 2023**
-  * ** VTC 2023**
+  * **VTC 2023**
 
-### <i class="fa fa-fw fa-handshake" aria-hidden="true"></i> Guest Editor
-
+### <i class="fa fa-fw fa-handshake" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335"> Guest Editor</font>
   * **Digital Communications and Networks:** Special Issue "Advances in 5G/6G-enabled Crowd Sensing IoT"
   * **Sensors:** Special Issue "Advances in Sensing, Imaging, and Computing for Autonomous Driving"
   * **High Confidence Computing**
-### <i class="fa fa-fw fa-handshake" aria-hidden="true"></i> NSF Panelist
 
+### <i class="fa fa-fw fa-handshake" aria-hidden="true"></i><font color="#cb4335"> NSF Panelist</font>
    * **NSF Reviewer 2023**
