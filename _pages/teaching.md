@@ -31,9 +31,7 @@ author_profile: true
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335"> Teaching Assistant at GWU</font>
 
 
-* **CSCI 1311 Discrete Structures (Spring 2020)**
-  *
-  
+* **CSCI 1311 Discrete Structures (Spring 2020)**  
 * **CSCI 4431 Computer Networks (Fall 2020)**
   *
 * **CSCI 4331 Cryptography (Fall 2019)**
