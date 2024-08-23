@@ -17,7 +17,7 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 ### <i class="fa fa-fw fa-puzzle-piece" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335">Research Interests</font>
 
 
-* **Privacy Preservation and Data Security**
+* **Differential Privacy**
 
 * **AI Security**
 
