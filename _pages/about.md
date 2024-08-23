@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### <i class="fa fa-fw fa-smile-wink" aria-hidden="true"></i> About me
+### <i class="fa fa-fw fa-smile-wink" aria-hidden="true" style="color:indianred"></i> About me
 
 I am an Assistant Professor of [Computer Science and Software Engineering](https://miamioh.edu/cec/academics/departments/cse/index.html) at [Miami University](https://miamioh.edu/). Prior to joining Miami University, I was an Assistant Professor of Cybersecurity program at UTRGV. 
 I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.gwu.edu/) under supervision of Professor Xiuzhen Cheng at the [George Washington University](https://www.gwu.edu/) (GWU). Here is my current [CV](./files/CV_Honglu_Jiang_updated.pdf).
@@ -50,6 +50,8 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
    
  * **April 2023:** Our paper entitled “DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization" has been accepted by IEEE transactions on Knowledge and Data Engineering.
  
+ * **More:** ([Older News](https://hljiang0720.github.io/news/)).
+
  * **December 2022:** I am so go glad that I was elevated to IEEE Senior Member grade.
  
  * **December 2022:** I am honored to be invited to give a research talk at Saint Joseph's University (SJU).
