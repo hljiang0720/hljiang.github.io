@@ -27,7 +27,7 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 * **Social Networkd and Big Data**
 
-<p><font face="Arial" size="+1" color="#e7b846">**I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV**.</font></p>
+<p><font face="Arial" size="+1">I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.</font></p>
 
 ### <i class="fa fa-fw fa-camera-retro" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335">News</font>
 
