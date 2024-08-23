@@ -2,7 +2,7 @@
 permalink: /news/
 author_profile: true
 ---
-* **July 2024:** Our paper entitled “Reducing Latency in MEC Networks with Short-Packet Communications" has been accepted by IEEE Transactions on Vehicular Technology.
+* **July 2024:** Our paper entitled “Reducing Latency in MEC Networks with Short-Packet Communications" has been accepted by IEEE Transactions on Vehicular Technology. yes
 
 * **May 2024:** Our paper entitled “Byzantine-Robust Federated Learning Based on Blockchain" has been accepted by IEEE WASA.
 
