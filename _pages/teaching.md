@@ -33,6 +33,6 @@ author_profile: true
 
 * **CSCI 1311 Discrete Structures (Spring 2020)**  
 * **CSCI 4431 Computer Networks (Fall 2020)**
-  *
+  
 * **CSCI 4331 Cryptography (Fall 2019)**
-  *
+  
