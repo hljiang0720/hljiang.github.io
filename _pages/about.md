@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-### <i class="fa fa-fw fa-smile-wink" aria-hidden="true" style="color:#cb4335"></i> <i style="color:#cb4335">About me</i> 
+<h3><i class="fa fa-fw fa-smile-wink" aria-hidden="true" style="color:#cb4335"></i> <i style="color:#cb4335">About Me</i></h3>
 
 I am an Assistant Professor of [Computer Science and Software Engineering](https://miamioh.edu/cec/academics/departments/cse/index.html) at [Miami University](https://miamioh.edu/). Prior to joining Miami University, I was an Assistant Professor of Cybersecurity program at UTRGV. 
 I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.gwu.edu/) under supervision of Professor Xiuzhen Cheng at the [George Washington University](https://www.gwu.edu/) (GWU). Here is my current [CV](./files/CV_Honglu_Jiang_updated.pdf).
 
  
-<h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Research Interests</h3>
+<i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Research Interests
 
 
 * **Privacy Preservation and Data Security**
@@ -25,12 +25,7 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 * **Social Networkd and Big Data**
 
-
-
- 
 <p><font size="+1" color="#8fbc8f">I'm Looking For Self-Motivated Students. Feel Free To Contact Me With Your CV.</font></p>
-
-
 
 <h3><i class="fa fa-camera-retro fa-lg" aria-hidden="true"></i> News</h3>
 
