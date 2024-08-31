@@ -31,9 +31,11 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 ### <i class="fa fa-fw fa-camera-retro" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335">News</font>
 
+* **July 2024:** August 2024: Our paper entitled “Curse to Blessing: Leveraging Model Inversion Attacks to Detect Backdoor Attacks in Federated Learning" has been accepted by IEEE IPCCC 2024.
+* 
 * **July 2024:** Our paper entitled “Reducing Latency in MEC Networks with Short-Packet Communications" has been accepted by IEEE Transactions on Vehicular Technology.
 
-* **May 2024:** Our paper entitled “Byzantine-Robust Federated Learning Based on Blockchain" has been accepted by IEEE WASA.
+* **May 2024:** Our paper entitled “Byzantine-Robust Federated Learning Based on Blockchain" has been accepted by IEEE WASA 2024.
 
 * **November 2023:** I was invited to serve as a Panelist at NSF.
 
