@@ -2,9 +2,11 @@
 permalink: /news/
 author_profile: true
 ---
+* **August 2024:** Our paper entitled “Curse to Blessing: Leveraging Model Inversion Attacks to Detect Backdoor Attacks in Federated Learning" has been accepted by IEEE IPCCC 2024.
+
 * **July 2024:** Our paper entitled “Reducing Latency in MEC Networks with Short-Packet Communications" has been accepted by IEEE Transactions on Vehicular Technology.
 
-* **May 2024:** Our paper entitled “Byzantine-Robust Federated Learning Based on Blockchain" has been accepted by IEEE WASA.
+* **May 2024:** Our paper entitled “Byzantine-Robust Federated Learning Based on Blockchain" has been accepted by IEEE WASA 2024.
 
 * **November 2023:** I was invited to serve as a Panelist at NSF.
 
