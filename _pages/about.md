@@ -31,7 +31,9 @@ I obtained my Ph.D.in the Department of [Computer Science](https://www.cs.seas.g
 
 ### <i class="fa fa-fw fa-camera-retro" aria-hidden="true" style="color:#cb4335"></i><font color="#cb4335">News</font>
 
-* **July 2024:** August 2024: Our paper entitled “Curse to Blessing: Leveraging Model Inversion Attacks to Detect Backdoor Attacks in Federated Learning" has been accepted by IEEE IPCCC 2024.
+* **September 2024:** I’m pleased to announce that our grant, for which I am the PI, 'Multidisciplinary Pathways to Cybersecurity Professionals,' has been awarded by NIST.
+
+* **August 2024:** Our paper entitled “Curse to Blessing: Leveraging Model Inversion Attacks to Detect Backdoor Attacks in Federated Learning" has been accepted by IEEE IPCCC 2024.
   
 * **July 2024:** Our paper entitled “Reducing Latency in MEC Networks with Short-Packet Communications" has been accepted by IEEE Transactions on Vehicular Technology.
 
