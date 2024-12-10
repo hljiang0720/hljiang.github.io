@@ -2,6 +2,9 @@
 permalink: /news/
 author_profile: true
 ---
+
+* **November 2024:** I was invited to serve as a Panelist at NSF.
+  
 * **September 2024:** I’m pleased to announce that our grant, for which I am the PI, 'Multidisciplinary Pathways to Cybersecurity Professionals,' has been awarded by NIST.
 
 * **August 2024:** Our paper entitled “Curse to Blessing: Leveraging Model Inversion Attacks to Detect Backdoor Attacks in Federated Learning" has been accepted by IEEE IPCCC 2024.
